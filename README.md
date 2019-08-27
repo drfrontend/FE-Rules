@@ -13,6 +13,7 @@ jquery-base.min.js
 ascMustScripts.js
 customEvents-99.1.0.min.js
 unveil-lazyload.js
+formValidation.js
 emos.css
 ```
 
@@ -25,7 +26,6 @@ jquery.cookie.js
 cartScripts.js
 popupDimensions.js
 comboBox.js
-formValidation.js
 minus.popup.js
 jquery.maskedinput.js
 ajaxtooltip.js
