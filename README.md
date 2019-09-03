@@ -14,6 +14,7 @@ ascMustScripts.js
 customEvents-99.1.0.min.js
 unveil-lazyload.js
 formValidation.js
+jquery.cookie.js
 emos.css
 ```
 
@@ -22,7 +23,6 @@ emos.css
     ASENKRON OLACAKLAR
 */
 
-jquery.cookie.js
 cartScripts.js
 popupDimensions.js
 comboBox.js
