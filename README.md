@@ -1,3 +1,7 @@
+# API
+
+app üzerinde bannerları kullanabilmek için tüm bannerların template yapısında olması gerekiyor. Sonrasında bu bannerlara API üzerinde getBannerList ile ulaşabiliriz. Ayrıca Bannerların entegrayon kodu kısmına bannerid bilgisini girmemiz gerekiyor.
+
 # Page Speed Kuralları
 
 #### 1- JS ve Css sıkıştırmaya konulmalı Burada dikkat edilmesi gereken ilk anda yüklenmesi gerekli olan jsler senkron, kalan jsler asenkron seçilmeli. 
